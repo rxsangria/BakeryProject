@@ -12,5 +12,7 @@ Business tasks:
    1. What are the underlying costs associated with each product offered including ingredient costs and labor costs?
    2. What are the best selling products for a specific time period?
    3. What are the most and least profitable products?
+   4. What products are running low in inventory and need to be reordered?
+   5. Do I have enough of a product in inventory to complete an order? 
       
 
